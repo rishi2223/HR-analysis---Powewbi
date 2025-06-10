@@ -10,7 +10,7 @@ This project presents a comprehensive HR Analytics Dashboard built using Power B
 | File Name         | Description                          |
 |------------------|--------------------------------------|
 | `HR_Analytics.csv` | Raw HR dataset used in the dashboard |
-| `Untitled.pdf`     | Final Power BI dashboard (PDF export) |
+| `projectdashboard.pdf`     | Final Power BI dashboard (PDF export) |
 
 ---
 
